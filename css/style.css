@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,600&display=swap');
+
+@font-face {
+	font-family: "TTCommons";
+	src: url("../fonts/TTCommons-Regular.woff2") format("woff2"), url("../fonts/TTCommons-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+body {
+    font-size: 20px;
+    font-family: "TTCommons", cursive;
+    line-height: 1.25;
+}
+
+.title {
+    font-size: 30px;
+    font-family: "Comfortaa", cursive;
+    text-align: center;
+    color: darkorange;
+    line-height: 1.7;
+    text-shadow: 5px 5px 7px rgb(202, 78, 78), -5px -5px 7px rgb(238, 241, 14);
+}
+
+.picture {
+    width: 40%;
+}
+
+.span {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.text{
+    color: darkgoldenrod;
+    text-indent: 20px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.text2{
+    color: green;
+    letter-spacing: 3px;
+}
+
+.text3{
+    color: darkblue;
+    text-shadow: 3px 3px 3px rgb(255, 217, 0);
+}
+
+.text4{
+    color: darkorchid;
+    text-transform: capitalize;
+}
+
+.text5{
+    color: darkred;
+    text-align: justify;
+}
+
+.text6{
+    color: violet;
+    font-style: italic;
+}
+
+.text7{
+    color: fuchsia;
+    word-spacing: 10px;
+}
+
+.text8{
+    color: indigo;
+}
+
+.text9{
+    color: red;
+}
+
+.text10{
+    color: blue;
+}
+
+.text11{
+    color: green;
+    font-family: "Roboto+Mono", monospace;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.text12 {
+    text-decoration: line-through;
+    color: red;
+}
